@@ -11,7 +11,7 @@
   #dino{  
     width: 70px;  
     height: 70px;  
-    background-image: url(img/t-rex.png);  
+    background-image: url(t-rex.png);  
     background-size: auto 70px;  
     position: relative;  
     top: 143px;  
@@ -42,7 +42,7 @@
     position: relative;  
     top: 91px;  
     left: 580px; /*width of frame - width of cactus*/  
-    background-image: url(img/cactus.png);  
+    background-image: url(cactus.png);  
     background-size: 20px 40px;  
     animation: cactus-block 1.2s infinite linear;  
   }  
